@@ -9,7 +9,7 @@
 
     <name>Logback Elasticsearch Appender</name>
     <description>Send log events directly from Logback to Elasticsearch</description>
-    <url>https://github.com/internetitem/logback-elasticsearch-appender</url>
+    <url>https://github.com/huksley/logback-elasticsearch-appender</url>
 
     <licenses>
         <license>
